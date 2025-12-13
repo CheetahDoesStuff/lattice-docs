@@ -25,6 +25,8 @@ If you’re new to Markdown, this is a great place to start:
 
 It doesn’t cover everything, but Markdown is very popular, so it’s easy to search for how to do more specific things (links, tables, code blocks, etc.).
 
+There is also custom "shortcodes" that are harder to search up but luckily for you, ive copied over some of the official documentation for it, so check out the shortcodes section below in the menu/navigation!
+
 ---
 
 ## Where do I write?
